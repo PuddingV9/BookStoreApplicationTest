@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC106 - RegisterFail - UserExists</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dec662a1-5d14-4dec-8c13-26768922a742</testCaseGuid>
+</TestCaseEntity>
